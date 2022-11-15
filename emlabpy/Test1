@@ -1,0 +1,5 @@
+conda create -n emlabpy python=3.8
+conda activate emlabpy
+python setup.py install -> if changes are done to the code
+python -m pip install .
+pip install -r requirements.txt
